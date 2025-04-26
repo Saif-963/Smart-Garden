@@ -1,5 +1,5 @@
 # Smart-Garden
-Developed a smart garden automation system using Arduino that integrates security, environment monitoring, and automatic control featuresThe system utilizes multiple sensors and actuators, including an IR sensor, LDR, LM35 temperature sensor, servo motor, fan, and LEDs, to manage garden access and environmental conditions.
+Developed a smart garden automation system using Arduino that integrates security, environment monitoring, and automatic control features. The system utilizes multiple sensors and actuators, including an IR sensor, LDR, LM35 temperature sensor, servo motor, fan, and LEDs, to manage garden access and environmental conditions.
 
 Key Features:
 
